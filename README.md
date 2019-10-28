@@ -1,4 +1,4 @@
-# DiceAppLab2
+# DiceAppLab6*
 The Amazing Dice App
 Thanks for choosing the Amazing Dice Rolling App! This app is sure to disappoint, so any mental anguish caused is entirely on the user.
 
