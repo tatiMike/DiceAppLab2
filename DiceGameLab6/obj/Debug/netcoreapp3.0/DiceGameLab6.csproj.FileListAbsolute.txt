@@ -1,0 +1,11 @@
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\bin\Debug\netcoreapp3.0\DiceGameLab6.exe
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\bin\Debug\netcoreapp3.0\DiceGameLab6.deps.json
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\bin\Debug\netcoreapp3.0\DiceGameLab6.runtimeconfig.json
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\bin\Debug\netcoreapp3.0\DiceGameLab6.runtimeconfig.dev.json
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\bin\Debug\netcoreapp3.0\DiceGameLab6.dll
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\bin\Debug\netcoreapp3.0\DiceGameLab6.pdb
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\obj\Debug\netcoreapp3.0\DiceGameLab6.csprojAssemblyReference.cache
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\obj\Debug\netcoreapp3.0\DiceGameLab6.AssemblyInfoInputs.cache
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\obj\Debug\netcoreapp3.0\DiceGameLab6.AssemblyInfo.cs
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\obj\Debug\netcoreapp3.0\DiceGameLab6.dll
+C:\Users\14192\source\repos\DiceGameLab6\DiceGameLab6\obj\Debug\netcoreapp3.0\DiceGameLab6.pdb
